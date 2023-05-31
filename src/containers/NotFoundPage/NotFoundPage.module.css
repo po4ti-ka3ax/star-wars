@@ -1,0 +1,23 @@
+
+.header {
+  font-size: 29px;
+  font-weight: 700;
+  border: 1px solid #282c34;
+  border-radius: 20px;
+  padding: 20px 0;
+  margin: 20px auto;
+  max-width: 200px;
+  text-align: center;
+}
+
+.text {
+  color: var(--color-white);
+  text-align: center;
+  font-size: var(--font-size-subheader);
+  text-shadow: var(--text-shadow-blue);
+  margin-top: var(--spacing-large);
+}
+.img {
+  margin: 100px auto auto;
+  width: 300px;
+}

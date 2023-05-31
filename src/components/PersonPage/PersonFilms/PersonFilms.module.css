@@ -1,0 +1,31 @@
+.films__list {
+    margin-left: var(--spacing-medium);
+    padding: var(--spacing-medium) 0;
+}
+
+.films__item {
+    display: flex;
+}
+
+.films__item span {
+    font-size: var(--font-size-subheader);
+    color: var(--color-white);
+}
+
+.episode__num {
+    background: var(--color-red);
+    border-radius: var(--border-radius-small);
+    padding: var(--spacing-ultrasmall);
+    margin-bottom: var(--spacing-small) ;
+}
+
+.episode__colon {
+    width: 20px;
+    font-weight: var(--font-bold);
+    text-align: center;
+}
+
+.episode__name {
+    margin-left: var();
+    text-shadow: var(--text-shadow-yellow);
+}
